@@ -24,8 +24,8 @@ For inquiries, collaborations, or more information about KIB, please contact us 
 
 ## Connect with Us
 
-- [Twitter]([https://twitter.com/kib_official](https://twitter.com/KevsBureau))
-- [Roblox]([https://facebook.com/kib_official](https://www.roblox.com/groups/16097119/Kevs-Investigation-Bureau#!/about))
+- [Twitter](https://twitter.com/KevsBureau)
+- [Roblox](https://www.roblox.com/groups/16097119/Kevs-Investigation-Bureau#!/about)
 - [Discord](https://discord.gg/6rpUwg964r)
 
 ## Contributions
